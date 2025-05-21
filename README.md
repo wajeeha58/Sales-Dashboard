@@ -1,14 +1,6 @@
 # Sales-Dashboard
 📊 Sales Dashboard – Superstore Sales Analysis
 This Power BI project provides a comprehensive analysis of Superstore sales performance using interactive visualizations. The dashboard presents key KPIs and insights such as total sales, profit, quantity, and performance by category, segment, and shipping mode.
-🖼️ Dashboard Preview
-
-📁 Files Included
-Sales_Dashboard.pbix – The main Power BI dashboard file.
-
-README.md – Project overview and explanation.
-
-Screenshot (561).png – Screenshot of the dashboard UI (optional but good for preview).
 
 📌 Key Metrics
 Total Sales: 1.57M
